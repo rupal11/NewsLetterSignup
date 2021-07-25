@@ -1,0 +1,5 @@
+# constains API_keys,user_name and list_id
+.env
+
+# Node modules
+node_modules/
