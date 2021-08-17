@@ -11,7 +11,7 @@
 ---
 <br>
 
-![NewsLetterSignup](images\NewLetter.png "NewsLetterSignup")
+![NewsLetterSignup](images/NewLetter.png "NewsLetterSignup")
 
 
 
